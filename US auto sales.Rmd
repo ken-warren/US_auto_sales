@@ -1,5 +1,5 @@
 ---
-title: "R codes for  Forecasting U.S Auto Sales"
+title: "R codes for Forecasting U.S Auto Sales"
 output:
   word_document: 
     toc: yes
