@@ -129,7 +129,7 @@ Based on the analysis, we recommend the following actions:
 1. Invest in marketing and promotions during peak sales seasons to maximize revenue.
 2. Efficiently manage inventory levels to meet increasing demand in peak months in order to minimize the risk of stockouts, reduce storage costs, and optimize cash flow by avoiding excess inventory buildup.
 
-### Referees
+### Reference
 1. [OTexts](https://otexts.com/fpp2/arima-r.html#:~:text=The%20auto.,many%20variations%20on%20the%20algorithm.)
 2. [Practical Time Series Forecasting with R: A Hands-On Guide by George E., Gwilym M. Jenkins, Gregory C. Reinsel, and Greta M. Ljung.](https://www.amazon.com/Time-Analysis-Forecasting-Probability-Statistics-ebook/dp/B014T25X10/)
 3. [Time Series Analysis by James Douglas Hamilton](https://www.amazon.com/Time-Analysis-James-Douglas-Hamilton/dp/0691042896)
