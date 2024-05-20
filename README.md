@@ -20,7 +20,7 @@ This data analysis project aims to provide insights into the sales performance o
 
 ### Objectives
 
-The main objectives of this project is to predicting the US auto sales using the optimal ARIMA/SARIMA model. The specific objectives are:
+The main objectives of this project is to predic the US auto sales using the optimal ARIMA/SARIMA model. The specific objectives are:
 
 - To fit ARIMA model on the US auto sales.
 - To fit SARIMA model on the US auto sales.
