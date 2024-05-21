@@ -8,7 +8,7 @@
 - [Tools](#tools)
 - [Data Cleaning](#data_cleaning)
 - [Exploratory Data Analysis](#exploratory_data_analysis)
-- [Data Analysis](#data analysis)
+- [Data Analysis](#data-analysis)
 - [Results](#results)
 - [Conclusion](#conclusion)
 - [Recommendations](#recommendatioms)
