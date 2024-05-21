@@ -1,4 +1,4 @@
-# Predicting US Auto Sales Using ARIMA/SARIMA model
+# Predicting U.S Auto Sales Using ARIMA/SARIMA model
 
 ## Table of Contents
 
