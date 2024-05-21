@@ -7,12 +7,12 @@
 - [Data Source](#data-source)
 - [Tools](#tools)
 - [Data Cleaning](#data_cleaning)
-- [Exploratory Data Analysis](#exploratory-data-analysis-(EDA))
+- [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Data Analysis](#data-analysis)
 - [Results](#results)
 - [Conclusion](#conclusion)
-- [Recommendations](#recommendatioms)
-- [Referees](#referees)
+- [Recommendations](#recommendations)
+- [Reference](#reference)
 
 ### Project Overview
 
@@ -46,7 +46,7 @@ In this phase, the following tasks were performed:
 2. Handling missing values
 3. Data cleaning and formating
 
-### Exploratory Data Analysis (EDA)
+### Exploratory Data Analysis
 
 EDA involved exploring the auto sales data to answer key questions, such as:
 
