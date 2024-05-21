@@ -2,12 +2,12 @@
 
 ## Table of Contents
 
-- [Project Overview](#project_overview)
+- [Project Overview](#project-overview)
 - [Objectives](#objectives)
-- [Data Source](#data_source)
+- [Data Source](#data-source)
 - [Tools](#tools)
 - [Data Cleaning](#data_cleaning)
-- [Exploratory Data Analysis](#exploratory_data_analysis)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Data Analysis](#data-analysis)
 - [Results](#results)
 - [Conclusion](#conclusion)
