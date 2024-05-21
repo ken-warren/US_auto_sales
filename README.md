@@ -8,7 +8,7 @@
 - [Tools](#tools)
 - [Data Cleaning](#data_cleaning)
 - [Exploratory Data Analysis](#exploratory_data_analysis)
-- [Data Analysis](#data__analysis)
+- [Data Analysis](#data_analysis)
 - [Results](#results)
 - [Conclusion](#conclusion)
 - [Recommendations](#recommendatioms)
@@ -53,7 +53,7 @@ EDA involved exploring the auto sales data to answer key questions, such as:
 1. What is the overall sales trend?
 2. What are the peak sales periods?
 
-### Data Analyis
+### Data Analysis
 
 First we check seasonality of the dataset by using the `stl()` command from the forecast package. To forecast the auto sales, the forecast package consisting of the `auto.arima()` function was utilized to fit the ARIMA/SARIMA model on the US auto sales.
 ```r
