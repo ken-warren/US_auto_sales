@@ -1,5 +1,5 @@
 # Load required dataset
-monthly_sales<- read.csv("C:\\Users\\ADMIN\\OneDrive\\Desktop\\DAUTONSA_new.csv", header = TRUE, stringsAsFactors = FALSE) #Use your own file path
+monthly_sales<- read.csv("DAUTONSA_new.csv", header = TRUE, stringsAsFactors = FALSE) #Use your own file path
 
 # View the first six values in the dataset
 head(monthly_sales)
